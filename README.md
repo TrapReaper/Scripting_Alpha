@@ -21,4 +21,6 @@ Tuvimos inconvenientes con github de varias formas vamos a adjuntar imagenes de 
 
 Los cambios, elementos y todo quedan en el archivo de word.
 
-el ejecutable esta como Juego_Zombie_ejectut.exe junto con este se necesita decargar el archivo UnityPlayer.dll que tambien esta dentro de la carpeta ademas el UnityCrashHandler64.exe.
+
+
+el ejecutable esta como Juego_Zombie_ejectut.exe pero para que funcione se tiene que DESCARGAR la carpeta llamada Ejectubale que esta en el google Drive en el siguiente link https://drive.google.com/open?id=19So57gZyPa-pLcQCQBPBstVoURfOFUyV .
