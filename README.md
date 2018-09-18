@@ -23,4 +23,4 @@ Los cambios, elementos y todo quedan en el archivo de word.
 
 
 
-el ejecutable esta como Juego_Zombie_ejectut.exe pero para que funcione se tiene que DESCARGAR la carpeta llamada Ejectubale que esta en el google Drive en el siguiente link https://drive.google.com/open?id=19So57gZyPa-pLcQCQBPBstVoURfOFUyV .
+el ejecutable esta como Juego_Zombie_ejectut.exe pero para que funcione se tiene que DESCARGAR la carpeta llamada Ejectubale que esta en el google Drive en el siguiente link https://drive.google.com/open?id=19So57gZyPa-pLcQCQBPBstVoURfOFUyV . En el link encontraras una carpeta llamada mono la cual tambien tienes que decargar y ponerla donde descargaste previamente lo otro.
